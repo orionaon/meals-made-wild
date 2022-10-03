@@ -25,8 +25,7 @@ Includes user authentication, supports image uploading, and bookmarking.
 
 - Implement React
 - Make Recipes Searchable by Keywords or Filter
+- Deleting to User's Recipes
 - Add Editing to User's Recipes
-
-
-
+- Allow Upload without Photo
 

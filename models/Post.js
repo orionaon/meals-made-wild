@@ -9,14 +9,14 @@ const PostSchema = new mongoose.Schema({
     type: String,
     require: true,
   },
-  country: {
+  forage: {
     type: String,
     require: true,
   },
-  dish: {
-    type: String,
-    require: true,
-  },
+  // dish: {
+  //   type: String,
+  //   require: true,
+  // },
   ingredients: {
     type: [String],
     require: true,
